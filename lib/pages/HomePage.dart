@@ -22,7 +22,7 @@ class _HomePageState extends State<HomePage> {
         title: const Text(
           'What would you like to eat?',
           style: TextStyle(
-              color: Colors.blueGrey,
+              color: Colors.blue,
               fontSize: 17,
               fontWeight: FontWeight.w300),
         ),
